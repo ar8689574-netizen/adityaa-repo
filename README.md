@@ -1,4 +1,4 @@
 # adityaa-repo
-This is my first repository
+This is my first repository.
 <br>
-Author-aditya gupta
+Author-aditya gupta.
